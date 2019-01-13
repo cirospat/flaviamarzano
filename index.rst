@@ -4,16 +4,25 @@
 Flavia Marzano pro-file
 ***********************
 
-Assessora Roma Semplice
+Occupazione attuale: assessora Roma Semplice
+
+.. _h381a263fc7c70354464351236673a19:
+
+Breve bio
+=========
+
+L’attività dal 2009 al 2019 si è svolta principalmente nei seguenti ambiti: Open Government, Smart City, Agenda Digitale, Trasparenza, Partecipazione, Open Source, Open data, Cittadinanza attiva, Divario digitale e di genere. 
+
+Social network manager, esperta di comunità virtuali, fondatrice e Presidente (dimissionaria a seguito dell’incarico di assessora) di \ |LINK1|\ , ideatrice e animatrice della rete \ |LINK2|\ .
 
 
 |REPLACE1|
 
-* \ |LINK1|\ 
+* \ |LINK3|\ 
 
 * Community software libero
 
-* \ |LINK2|\ 
+* \ |LINK4|\ 
 
 
 .. toctree::  
@@ -57,9 +66,17 @@ Assessora Roma Semplice
 
 .. |LINK1| raw:: html
 
-    <a href="https://www.comune.roma.it/web/it/flavia-marzano.page" target="_blank">Assessora Comune di Roma</a>
+    <a href="https://www.statigeneralinnovazione.it/online/" target="_blank">Stati Generali dell'Innovazione</a>
 
 .. |LINK2| raw:: html
+
+    <a href="http://www.wister.it/" target="_blank">WISTER (Women for Intelligent and Smart Territories)</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://www.comune.roma.it/web/it/flavia-marzano.page" target="_blank">Assessora Comune di Roma</a>
+
+.. |LINK4| raw:: html
 
     <a href="http://www.wister.it/" target="_blank">Community Wister</a>
 
