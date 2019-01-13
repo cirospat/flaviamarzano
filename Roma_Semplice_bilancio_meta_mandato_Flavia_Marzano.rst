@@ -49,7 +49,9 @@ Gran parte delle iniziative avviate (e che ripercorro brevemente qui di seguito,
 1. Nuovo sito di Roma Capitale: accessibile, semplice, partecipativo, trasparente, inclusivo
 ********************************************************************************************
 
-Il nuovo portale, per la sua trasversalità è uno strumento essenziale per la semplificazione, la partecipazione e la trasparenza. Infatti è la principale piattaforma di informazione, partecipazione e collaborazione a disposizione dei cittadini, e il punto di ingresso privilegiato per la fruizione dei servizi dell’Amministrazione, proposti secondo le direttrici strategiche di semplicità, accessibilità e trasparenza. La messa online del \ |STYLE3|\  (avvenuta il 7 febbraio 2018), coerente con le \ |LINK3|\  non  è soltanto il risultato di un’operazione di allineamento dell’interfaccia ai nuovi standard \ |STYLE4|\  dei siti della PA, ma è anche il risultato di un profondo lavoro di razionalizzazione, semplificazione e uniformazione di tutti i contenuti e servizi con l’obiettivo di mettere al centro le esigenze del cittadino: siamo passati da un portale amministrativo-centrico basato sulla struttura organizzativa degli uffici e formato da 39 siti indipendenti, ad una piattaforma unica disegnata per superare la frammentazione tra le strutture, in grado di proporre in modo univoco e omogeneo informazioni, servizi, procedimenti e modulistica, secondo un’architettura per temi, competenze e territori di riferimento; per raggiungere la pagina desiderata siamo passati da una media di 9 click a circa 3. Il processo di razionalizzazione ha visto inoltre l’analisi e la revisione di centinaia di moduli e schede servizi, da parte delle strutture centrali e territoriali coinvolte, per una prima opera concreta e visibile di semplificazione amministrativa.
+Il nuovo portale, per la sua trasversalità è uno strumento essenziale per la semplificazione, la partecipazione e la trasparenza. Infatti è la principale piattaforma di informazione, partecipazione e collaborazione a disposizione dei cittadini, e il punto di ingresso privilegiato per la fruizione dei servizi dell’Amministrazione, proposti secondo le direttrici strategiche di semplicità, accessibilità e trasparenza. 
+
+La messa online del \ |STYLE3|\  (avvenuta il 7 febbraio 2018), coerente con le \ |LINK3|\  non  è soltanto il risultato di un’operazione di allineamento dell’interfaccia ai nuovi standard \ |STYLE4|\  dei siti della PA, ma è anche il risultato di un profondo lavoro di razionalizzazione, semplificazione e uniformazione di tutti i contenuti e servizi con l’obiettivo di mettere al centro le esigenze del cittadino: siamo passati da un portale amministrativo-centrico basato sulla struttura organizzativa degli uffici e formato da 39 siti indipendenti, ad una piattaforma unica disegnata per superare la frammentazione tra le strutture, in grado di proporre in modo univoco e omogeneo informazioni, servizi, procedimenti e modulistica, secondo un’architettura per temi, competenze e territori di riferimento; per raggiungere la pagina desiderata siamo passati da una media di 9 click a circa 3. Il processo di razionalizzazione ha visto inoltre l’analisi e la revisione di centinaia di moduli e schede servizi, da parte delle strutture centrali e territoriali coinvolte, per una prima opera concreta e visibile di semplificazione amministrativa.
 
 Il sito di Roma Capitale è finalmente accessibile alle persone con disabilità ai sensi della normativa vigente e l’assessorato Roma Semplice ha stabilito un contatto permanente con alcune associazioni per una verifica costante dell’accessibilità. 
 
@@ -64,33 +66,33 @@ Il sito di Roma Capitale è finalmente accessibile alle persone con disabilità 
 
 Stiamo ristrutturando profondamente l’infrastruttura hardware e il parco applicativo, superando la significativa frammentarietà, vetustà e debolezza che abbiamo trovato nel 2016, e abbiamo avviato l’ambizioso percorso di trasformazione e semplificazione della macchina amministrativa e dei servizi verso i cittadini, attraverso interventi organizzativi e tecnologici. Questi alcuni tra i principali interventi:
 
-#. Approvazione dell’\ |LINK4|\ , primo piano strategico di Roma Capitale realizzato con processo partecipativo e con obiettivi concreti e misurabili per la trasformazione digitale;
+* Approvazione dell’\ |LINK4|\ , primo piano strategico di Roma Capitale realizzato con processo partecipativo e con obiettivi concreti e misurabili per la trasformazione digitale;
 
-#. Istituzione della \ |LINK5|\ , presieduta dal Direttore Generale, supportata da un \ |STYLE5|\  e con definizione di progetti trasversali di innovazione;
+* Istituzione della \ |LINK5|\ , presieduta dal Direttore Generale, supportata da un \ |STYLE5|\  e con definizione di progetti trasversali di innovazione;
 
-#. Approvazione del \ |LINK6|\ , allineato al \ |LINK7|\ , e finalizzato a definire il quadro complessivo di interventi in ambito di digitalizzazione dell’Ente;
+* Approvazione del \ |LINK6|\ , allineato al \ |LINK7|\ , e finalizzato a definire il quadro complessivo di interventi in ambito di digitalizzazione dell’Ente;
 
-#. Strutturazione degli obiettivi del Documento Unico di Programmazione, in modo trasversale ai Dipartimenti coinvolti. Obiettivi legati ai programmi strategici di Roma Semplice ed espressi in modo misurabile, con indicatori di raggiungimento, da cui sono stati derivati gli obiettivi per i dirigenti e per le strutture;
+* Strutturazione degli obiettivi del Documento Unico di Programmazione, in modo trasversale ai Dipartimenti coinvolti. Obiettivi legati ai programmi strategici di Roma Semplice ed espressi in modo misurabile, con indicatori di raggiungimento, da cui sono stati derivati gli obiettivi per i dirigenti e per le strutture;
 
-#. Decisione di Giunta e avvio delle attività per la \ |LINK8|\  e istituzione del coordinamento unico per la gestione documentale. L’unitarietà della gestione informatica dei documenti e dei flussi faciliterà la reperibilità delle informazioni garantendo maggiore trasparenza e la possibilità per i cittadini di meglio conoscere, controllare e valutare l’operato degli organi di governo;
+* Decisione di Giunta e avvio delle attività per la \ |LINK8|\  e istituzione del coordinamento unico per la gestione documentale. L’unitarietà della gestione informatica dei documenti e dei flussi faciliterà la reperibilità delle informazioni garantendo maggiore trasparenza e la possibilità per i cittadini di meglio conoscere, controllare e valutare l’operato degli organi di governo;
 
-#. Adesione a \ |LINK9|\ , Sistema Pubblico di Identità Digitale, che consente ai cittadini di fruire dei servizi online del Comune e delle principali PA. Roma non solo è il Comune con il maggior numero di servizi online, circa 70 quelli disponibili, ma ha aderito a SPID a dicembre 2016 con un anno di anticipo rispetto alla scadenza normativa e da gennaio 2019 passa alla modalità \ |STYLE6|\  per le nuove registrazioni di coloro che hanno diritto ad acquisire credenziali SPID;
+* Adesione a \ |LINK9|\ , Sistema Pubblico di Identità Digitale, che consente ai cittadini di fruire dei servizi online del Comune e delle principali PA. Roma non solo è il Comune con il maggior numero di servizi online, circa 70 quelli disponibili, ma ha aderito a SPID a dicembre 2016 con un anno di anticipo rispetto alla scadenza normativa e da gennaio 2019 passa alla modalità \ |STYLE6|\  per le nuove registrazioni di coloro che hanno diritto ad acquisire credenziali SPID;
 
 |REPLACE2|
 
-#. Realizzazione e messa in esercizio del \ |LINK10|\ , che oggi gestisce ben oltre 4mila segnalazioni al mese inviate via web. Il sistema unico permette una razionalizzazione complessiva del processo attraverso l’utilizzo di un unico sistema informativo condiviso da tutte le strutture centrali e territoriali, per la gestione integrata e completa dell’intero flusso di trattamento delle segnalazioni, dall’inserimento fino alla chiusura e comunicazione al cittadino. L’intero iter delle segnalazioni è visibile ai cittadini che sono informati dei cambiamenti di stato della propria segnalazione che possono seguire in una specifica area riservata. I cittadini possono allegare alla propria segnalazione foto e filmati e georeferenziarla su mappa; 
+* Realizzazione e messa in esercizio del \ |LINK10|\ , che oggi gestisce ben oltre 4mila segnalazioni al mese inviate via web. Il sistema unico permette una razionalizzazione complessiva del processo attraverso l’utilizzo di un unico sistema informativo condiviso da tutte le strutture centrali e territoriali, per la gestione integrata e completa dell’intero flusso di trattamento delle segnalazioni, dall’inserimento fino alla chiusura e comunicazione al cittadino. L’intero iter delle segnalazioni è visibile ai cittadini che sono informati dei cambiamenti di stato della propria segnalazione che possono seguire in una specifica area riservata. I cittadini possono allegare alla propria segnalazione foto e filmati e georeferenziarla su mappa; 
 
-#. Realizzazione e messa in esercizio della \ |LINK11|\ , che permette oggi ai cittadini di navigare la mappa di Roma su più livelli tematici;
+* Realizzazione e messa in esercizio della \ |LINK11|\ , che permette oggi ai cittadini di navigare la mappa di Roma su più livelli tematici;
 
-#. Attivazione e realizzazione dei principali progetti previsti dall’Agenda Digitale di Roma Capitale, come l’adeguamento al Nodo PagoPA, in una logica di soggetto aggregatore, con l’utilizzo da parte di molti servizi di Roma Capitale, l’armonizzazione dei servizi digitali alle imprese, con l’integrazione al cassetto digitale dell’imprenditore realizzato da Infocamere;
+* Attivazione e realizzazione dei principali progetti previsti dall’Agenda Digitale di Roma Capitale, come l’adeguamento al Nodo PagoPA, in una logica di soggetto aggregatore, con l’utilizzo da parte di molti servizi di Roma Capitale, l’armonizzazione dei servizi digitali alle imprese, con l’integrazione al cassetto digitale dell’imprenditore realizzato da Infocamere;
 
-#. Attivazione dei progetti integrati della Casa digitale del cittadino e del sistema di CRM (\ |STYLE7|\ ), per assicurare al cittadino uno spazio personalizzato dove trovare tutte le informazioni che lo riguardano; 
+* Attivazione dei progetti integrati della Casa digitale del cittadino e del sistema di CRM (\ |STYLE7|\ ), per assicurare al cittadino uno spazio personalizzato dove trovare tutte le informazioni che lo riguardano; 
 
 |REPLACE3|
 
-#. Ristrutturazione del sistema contabile in una logica open source e profonda reingegnerizzazione del sistema della popolazione, necessaria per il subentro in ANPR previsto entro il 30 giugno 2019;
+* Ristrutturazione del sistema contabile in una logica open source e profonda reingegnerizzazione del sistema della popolazione, necessaria per il subentro in ANPR previsto entro il 30 giugno 2019;
 
-#. Conclusione della prima fase di \ |STYLE8|\  sullo stato di digitalizzazione e gestione dei dati di tutta l’amministrazione, con identificazione di un piano di azioni prioritarie.
+* Conclusione della prima fase di \ |STYLE8|\  sullo stato di digitalizzazione e gestione dei dati di tutta l’amministrazione, con identificazione di un piano di azioni prioritarie.
 
 Alcuni interventi sopra citati sono stati inseriti nel \ |LINK12|\  (PON Metro 2014-2020).
 
@@ -166,26 +168,25 @@ La partecipazione è tale solo se informata, e quindi se l’amministrazione att
 
 Ma puntare sui dati significa molto di più: significa abilitare anche le imprese a sviluppare servizi per la comunità territoriale, e il \ |LINK23|\ , messo in esercizio a luglio 2018 e basato sul riuso del portale della Regione Lazio, vuole dare una risposta a queste diverse esigenze. 
 
-
 |REPLACE7|
 
 Qui riassumo brevemente le altre iniziative che abbiamo realizzato su questo fronte:
 
-#. \ |LINK24|\ : da ottobre l’agenda dell’Assessorato Roma Semplice è pubblica, aperta e condivisa. A questa si sono aggiunti altri assessorati;
+* \ |LINK24|\ : da ottobre l’agenda dell’Assessorato Roma Semplice è pubblica, aperta e condivisa. A questa si sono aggiunti altri assessorati;
 
-#. \ |LINK25|\ : da ottobre 2016 i Bilanci di Roma Capitale sono aperti, semplici da leggere grazie ad infografiche e con dati aperti;
+* \ |LINK25|\ : da ottobre 2016 i Bilanci di Roma Capitale sono aperti, semplici da leggere grazie ad infografiche e con dati aperti;
 
-#. nel quadro delle iniziative per gli Open Data abbiamo organizzato il 22 Aprile 2017 per la Giornata Mondiale per la salvaguardia della Terra, insieme con l’Assessorato alla Sostenibilità Ambientale, il \ |LINK26|\ ;
+* nel quadro delle iniziative per gli Open Data abbiamo organizzato il 22 Aprile 2017 per la Giornata Mondiale per la salvaguardia della Terra, insieme con l’Assessorato alla Sostenibilità Ambientale, il \ |LINK26|\ ;
 
 |REPLACE8|
 
-#. è stato introdotto un nuovo meccanismo trasparente di nomina degli scrutatori tramite sorteggio informatico e pubblicazione dei relativi dati, che garantisce, tra l’altro, parità di genere ed è stato applicato a partire dal referendum del 4 dicembre 2016;
+* è stato introdotto un nuovo meccanismo trasparente di nomina degli scrutatori tramite sorteggio informatico e pubblicazione dei relativi dati, che garantisce, tra l’altro, parità di genere ed è stato applicato a partire dal referendum del 4 dicembre 2016;
 
-#. è stata avviata una collaborazione con AgID e Team Digitale per la sperimentazione del DAF (\ |LINK27|\ ), piattaforma nazionale per i dati;
+* è stata avviata una collaborazione con AgID e Team Digitale per la sperimentazione del DAF (\ |LINK27|\ ), piattaforma nazionale per i dati;
 
-#. realizzata la prima fase del progetto pilota \ |LINK28|\ ., avviato dal Municipio VII, con il coordinamento dell’Assessorato Roma Semplice, ed esteso in via sperimentale ai limitrofi Municipi V e VI nel quadrante est. Il progetto ha lo scopo di valorizzare il patrimonio culturale, materiale e immateriale, presente sul territorio di Roma Capitale, tanto nelle aree centrali, quanto in quelle più periferiche, con il coinvolgimento diretto delle scuole del territorio e la raccolta e l’utilizzo dei dati;
+* realizzata la prima fase del progetto pilota \ |LINK28|\ ., avviato dal Municipio VII, con il coordinamento dell’Assessorato Roma Semplice, ed esteso in via sperimentale ai limitrofi Municipi V e VI nel quadrante est. Il progetto ha lo scopo di valorizzare il patrimonio culturale, materiale e immateriale, presente sul territorio di Roma Capitale, tanto nelle aree centrali, quanto in quelle più periferiche, con il coinvolgimento diretto delle scuole del territorio e la raccolta e l’utilizzo dei dati;
 
-#. Roma Capitale è stata la prima amministrazione ad avere attivato l’iter per dotarsi di un \ |LINK29|\  con diverse novità introdotte, anche con un utilizzo ampio degli strumenti digitali, per garantire più diritti, più trasparenza, più controllo sull’operato dell’amministrazione da parte dei cittadini, in attesa di approvazione da parte dell’Assemblea Capitolina.
+* Roma Capitale è stata la prima amministrazione ad avere attivato l’iter per dotarsi di un \ |LINK29|\  con diverse novità introdotte, anche con un utilizzo ampio degli strumenti digitali, per garantire più diritti, più trasparenza, più controllo sull’operato dell’amministrazione da parte dei cittadini, in attesa di approvazione da parte dell’Assemblea Capitolina.
 
 |
 
@@ -194,19 +195,21 @@ Qui riassumo brevemente le altre iniziative che abbiamo realizzato su questo fro
 7. Smart City: strategia, indicatori, tecnologie
 ************************************************
 
-Abbiamo quasi ultimato il percorso di definizione delle linee di indirizzo sulla Smart City attraverso un processo partecipativo in cui l’assessorato Roma Semplice ha incontrato il mondo dell’università, dell’impresa e dell’associazionismo, e cui hanno contribuito i componenti del laboratorio Smart City del Forum per l’Innovazione. L’obiettivo è definire il quadro strategico complessivo per tutte le iniziative dell’amministrazione che tendono a realizzare quello che intendiamo per “smart city”: una città sostenibile, resiliente, aperta, collaborativa, trasparente, partecipata, connettiva, creativa, inclusiva. E sono tante le iniziative già in atto, dal Piano Urbano della Mobilità Sostenibile alla Strategia per Roma Resiliente, dal Piano per i Materiali Post-Consumo al Piano d'Azione per l'Energia Sostenibile e il Clima (PAESC). Il mio assessorato ha fin qui coordinato direttamente alcune iniziative che ritengo fondamentali per il nostro progetto, oltre quelle già citate in tema di trasformazione digitale, di open data e, in generale, di amministrazione aperta, trasparente e partecipata: 
+Abbiamo quasi ultimato il percorso di definizione delle linee di indirizzo sulla Smart City attraverso un processo partecipativo in cui l’assessorato Roma Semplice ha incontrato il mondo dell’università, dell’impresa e dell’associazionismo, e cui hanno contribuito i componenti del laboratorio Smart City del Forum per l’Innovazione. 
 
-#. abbiamo iniziato la misurazione del benessere dei cittadini, per identificare obiettivi di miglioramento. Il 29 maggio 2018 abbiamo presentato \ |LINK30|\  di un comune e lo abbiamo inserito nel Documento Unico di Programmazione 2019-2021. Il BES, definito da Istat a livello nazionale, integra le informazioni fornite dagli indicatori sulle attività economiche con le fondamentali dimensioni del benessere, corredate da misure relative alle diseguaglianze e alla sostenibilità, con una declinazione anche a livello municipale e l’inserimento di indicatori BES non presenti nell’elenco ufficiale dell’Istat. Misuriamo, così, domini come Salute, Istruzione e formazione, Lavoro e conciliazione dei tempi di vita, Benessere economico, Relazioni sociali, Politica e istituzioni, Sicurezza, Benessere soggettivo, Paesaggio e patrimonio culturale, Ambiente, Innovazione ricerca e creatività, Qualità dei servizi;
+L’obiettivo è definire il quadro strategico complessivo per tutte le iniziative dell’amministrazione che tendono a realizzare quello che intendiamo per “smart city”: una città sostenibile, resiliente, aperta, collaborativa, trasparente, partecipata, connettiva, creativa, inclusiva. 
 
-#. Nonostante Roma non fosse stata inclusa nel progetto sperimentale sul \ |STYLE14|\ , grazie a dei protocolli aperti di intesa con Fastweb, Ericsson e ZTE abbiamo portato Roma Capitale tra le città leader nella sperimentazione delle tecnologie di connettività di nuova generazione, con un progetto \ |STYLE15|\  che mira a sviluppare servizi basati sul 5G nelle aree della Cultura e del Turismo, della Mobilità e della Sicurezza. Il 22 febbraio 2018 è stato acceso il primo segnale 5G dimostrativo e il 17 dicembre è stato attivato un primo servizio \ |LINK31|\ .  Il 2019 sarà l’anno di completamento dei servizi sulle aree Mobilità e Sicurezza e soprattutto l’anno in cui apriremo a sviluppi interessanti per le imprese grazie alla collaborazione che stiamo definendo con l’ESA, l’Ente Spaziale Europeo, con l’obiettivo è di attrarre le eccellenze di settore per fare sempre più di Roma un laboratorio nazionale di innovazione nel quale sperimentare soluzioni innovative in grado di migliorare il modo di vivere la città; 
+E sono tante le iniziative già in atto, dal Piano Urbano della Mobilità Sostenibile alla Strategia per Roma Resiliente, dal Piano per i Materiali Post-Consumo al Piano d'Azione per l'Energia Sostenibile e il Clima (PAESC). Il mio assessorato ha fin qui coordinato direttamente alcune iniziative che ritengo fondamentali per il nostro progetto, oltre quelle già citate in tema di trasformazione digitale, di open data e, in generale, di amministrazione aperta, trasparente e partecipata: 
 
-#. insieme alla città metropolitana e ad alcuni comuni dell’area metropolitana abbiamo avviato un progetto sul \ |LINK32|\ , prima di tutto per il personale capitolino, ma con l’ambizione di estendere l’iniziativa a tutto il territorio romano. Sviluppare le modalità di lavoro agile significa certamente riorganizzare le modalità di lavoro, ma anche puntare ad affrontare il tema della mobilità riducendo la necessità degli spostamenti, in una logica di città sempre più sostenibile;
+* abbiamo iniziato la misurazione del benessere dei cittadini, per identificare obiettivi di miglioramento. Il 29 maggio 2018 abbiamo presentato \ |LINK30|\  di un comune e lo abbiamo inserito nel Documento Unico di Programmazione 2019-2021. Il BES, definito da Istat a livello nazionale, integra le informazioni fornite dagli indicatori sulle attività economiche con le fondamentali dimensioni del benessere, corredate da misure relative alle diseguaglianze e alla sostenibilità, con una declinazione anche a livello municipale e l’inserimento di indicatori BES non presenti nell’elenco ufficiale dell’Istat. Misuriamo, così, domini come Salute, Istruzione e formazione, Lavoro e conciliazione dei tempi di vita, Benessere economico, Relazioni sociali, Politica e istituzioni, Sicurezza, Benessere soggettivo, Paesaggio e patrimonio culturale, Ambiente, Innovazione ricerca e creatività, Qualità dei servizi;
 
+* Nonostante Roma non fosse stata inclusa nel progetto sperimentale sul \ |STYLE14|\ , grazie a dei protocolli aperti di intesa con Fastweb, Ericsson e ZTE abbiamo portato Roma Capitale tra le città leader nella sperimentazione delle tecnologie di connettività di nuova generazione, con un progetto \ |STYLE15|\  che mira a sviluppare servizi basati sul 5G nelle aree della Cultura e del Turismo, della Mobilità e della Sicurezza. Il 22 febbraio 2018 è stato acceso il primo segnale 5G dimostrativo e il 17 dicembre è stato attivato un primo servizio \ |LINK31|\ .  Il 2019 sarà l’anno di completamento dei servizi sulle aree Mobilità e Sicurezza e soprattutto l’anno in cui apriremo a sviluppi interessanti per le imprese grazie alla collaborazione che stiamo definendo con l’ESA, l’Ente Spaziale Europeo, con l’obiettivo è di attrarre le eccellenze di settore per fare sempre più di Roma un laboratorio nazionale di innovazione nel quale sperimentare soluzioni innovative in grado di migliorare il modo di vivere la città; 
+
+* insieme alla città metropolitana e ad alcuni comuni dell’area metropolitana abbiamo avviato un progetto sul \ |LINK32|\ , prima di tutto per il personale capitolino, ma con l’ambizione di estendere l’iniziativa a tutto il territorio romano. Sviluppare le modalità di lavoro agile significa certamente riorganizzare le modalità di lavoro, ma anche puntare ad affrontare il tema della mobilità riducendo la necessità degli spostamenti, in una logica di città sempre più sostenibile; 
 
 |REPLACE9|
 
-#. una città smart è anche una città connessa, per questo abbiamo puntato non solo allo sviluppo della fibra e alla sperimentazione del 5G, ma anche a facilitare l’accesso dei cittadini al Wi-Fi, semplificando la modalità di autenticazione, (\ |LINK33|\  è uno dei servizi cui si accede anche con SPID), aderendo a \ |LINK34|\ , la rete federata nazionale Wi-Fi coordinata dal MISE, incrementando il numero degli hotspot, e spingendo verso la razionalizzazione e il rafforzamento del Data Center, fino a due anni fa debole e dalla gestione frammentata.
-
+* una città smart è anche una città connessa, per questo abbiamo puntato non solo allo sviluppo della fibra e alla sperimentazione del 5G, ma anche a facilitare l’accesso dei cittadini al Wi-Fi, semplificando la modalità di autenticazione, (\ |LINK33|\  è uno dei servizi cui si accede anche con SPID), aderendo a \ |LINK34|\ , la rete federata nazionale Wi-Fi coordinata dal MISE, incrementando il numero degli hotspot, e spingendo verso la razionalizzazione e il rafforzamento del Data Center, fino a due anni fa debole e dalla gestione frammentata.
 
 |REPLACE10|
 
@@ -223,17 +226,15 @@ Roma Capitale è impegnata nelle politiche per la parità e contro la violenza d
 
 Questa adesione consente di comporre un quadro organico rispetto alle iniziative già poste in essere, come ad esempio
 
-#. l’adesione del 25 novembre 2016 alla Campagna “\ |LINK37|\ ” contro la violenza sulle donne. Una sedia vuota in memoria delle vittime di femminicidio è riservata in ogni seduta di Giunta;
+* l’adesione del 25 novembre 2016 alla Campagna “\ |LINK37|\ ” contro la violenza sulle donne. Una sedia vuota in memoria delle vittime di femminicidio è riservata in ogni seduta di Giunta;
 
-#. l’adesione alla Campagna ‘\ |LINK38|\ ’, iniziativa organizzata da ‘Terre des Hommes’ che propone interventi e percorsi sul tema della prevenzione quale strumento chiave per arginare il fenomeno della violenza e del maltrattamento dei bambini e delle bambine e che ci porta alla celebrazione annuale della Giornata Mondiale delle Bambine e delle Ragazze (11 ottobre);
+* l’adesione alla Campagna ‘\ |LINK38|\ ’, iniziativa organizzata da ‘Terre des Hommes’ che propone interventi e percorsi sul tema della prevenzione quale strumento chiave per arginare il fenomeno della violenza e del maltrattamento dei bambini e delle bambine e che ci porta alla celebrazione annuale della Giornata Mondiale delle Bambine e delle Ragazze (11 ottobre);
 
-#. la partecipazione al piano nazionale contro il cyberbullismo come rappresentanti ANCI;
-
+* la partecipazione al piano nazionale contro il cyberbullismo come rappresentanti ANCI;
 
 |REPLACE11|
 
-#. l’organizzazione di attività di sensibilizzazione alle professionalità STEM (\ |STYLE16|\ ) per le ragazze, tra cui la Giornata organizzata con \ |LINK39|\  e l’evento “Scegliamo di contare” che ha ospitato diverse testimonial con carriere tipicamente STEM ed esperienze lavorative di successo in Italia e all’estero. 
-
+* l’organizzazione di attività di sensibilizzazione alle professionalità STEM (\ |STYLE16|\ ) per le ragazze, tra cui la Giornata organizzata con \ |LINK39|\  e l’evento “Scegliamo di contare” che ha ospitato diverse testimonial con carriere tipicamente STEM ed esperienze lavorative di successo in Italia e all’estero. 
 
 |REPLACE12|
 
@@ -263,21 +264,21 @@ Abbiamo chiesto al governo poteri in linea con le esigenze e le dimensioni di Ro
 
 Roma ha una missione e una vocazione di leader nazionale e internazionale sull’innovazione che sin dai primi atti il mio assessorato sta cercando di ricostruire. Questo obiettivo si ottiene con la strategia organica descritta e più iniziative e collaborazioni, come ad esempio:
 
-#. l’inserimento di Roma Capitale all’interno della \ |STYLE17|\  \ |LINK41|\  nell’ambito della Urban Agenda dell’Unione Europea, con il \ |STYLE18|\ 
+* l’inserimento di Roma Capitale all’interno della \ |STYLE17|\  \ |LINK41|\  nell’ambito della Urban Agenda dell’Unione Europea, con il \ |STYLE18|\ 
 
-#. il rinnovo dell’adesione di Roma Capitale a \ |LINK42|\  il network delle principali città europee;
+* il rinnovo dell’adesione di Roma Capitale a \ |LINK42|\  il network delle principali città europee;
 
-#. l’\ |LINK43|\  sui temi dell’agenda digitale e delle smart city;
+* l’\ |LINK43|\  sui temi dell’agenda digitale e delle smart city;
 
-#. l’organizzazione o l’ospitalità fornita a diverse iniziative internazionali di avanguardia, come la  \ |LINK44|\ ,  la \ |LINK45|\ , il \ |LINK46|\ ;
+* l’organizzazione o l’ospitalità fornita a diverse iniziative internazionali di avanguardia, come la  \ |LINK44|\ ,  la \ |LINK45|\ , il \ |LINK46|\ ;
 
 |REPLACE15|
 
-#. in \ |STYLE19|\  l’iniziativa “\ |STYLE20|\ ” che abbiamo avviato coinvolgendo oltre 30 amministrazioni comunali e 5 città metropolitane con l’obiettivo di condividere e mettere a sistema competenze e promuovere il riuso di buone pratiche, e la stretta collaborazione con AgID e Team Digitale su più progetti, rinnovata e ancor più rilanciata recentemente con i nuovi vertici.
+* in \ |STYLE19|\  l’iniziativa “\ |STYLE20|\ ” che abbiamo avviato coinvolgendo oltre 30 amministrazioni comunali e 5 città metropolitane con l’obiettivo di condividere e mettere a sistema competenze e promuovere il riuso di buone pratiche, e la stretta collaborazione con AgID e Team Digitale su più progetti, rinnovata e ancor più rilanciata recentemente con i nuovi vertici.
 
 |REPLACE16|
 
-#. Il progetto europeo \ |LINK47|\  (Cyber Security Aware) appartiene all’area dei progetti in ambito Digital Security promossi dall’Unione Europea. CS-Aware è un progetto del programma Horizon 2020 – Call: H2020-DS -2016 -2017 Type of action: I.A. (Innovation Action) che è stato approvato e finanziato in data 16/01/2017 dalla Commissione Europea.
+* Il progetto europeo \ |LINK47|\  (Cyber Security Aware) appartiene all’area dei progetti in ambito Digital Security promossi dall’Unione Europea. CS-Aware è un progetto del programma Horizon 2020 – Call: H2020-DS -2016 -2017 Type of action: I.A. (Innovation Action) che è stato approvato e finanziato in data 16/01/2017 dalla Commissione Europea.
 
 
 |REPLACE17|
