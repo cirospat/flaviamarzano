@@ -27,16 +27,9 @@ Flavia Marzano pro-file
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Risorse & conoscenza condivisa
-
-    
-
-
-.. toctree::  
-    :maxdepth: 2
     :caption: @ Comune di Roma
 
-    
+    Roma_Semplice_bilancio_meta_mandato_Flavia_Marzano
 
 
 .. toctree::  
