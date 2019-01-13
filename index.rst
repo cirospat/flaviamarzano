@@ -72,7 +72,7 @@ Social network manager, esperta di comunità virtuali, fondatrice e Presidente (
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="500" src="https://www.youtube.com/embed/qzNVNhIwQzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-    da Digital First a Digital Only, intervista a Flavia Marzano (FPAtv)
+    da Digital First a Digital Only, intervista a Flavia Marzano (FPAtv - giugno 2018)
 
 .. |LINK1| raw:: html
 
