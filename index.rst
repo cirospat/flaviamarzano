@@ -4,16 +4,16 @@
 Flavia Marzano pro-file
 ***********************
 
-……….
+Assessora Roma Semplice
 
 
 |REPLACE1|
 
-* a
+* Comune di Roma
 
-* b
+* Community software libero
 
-* c
+* WisterWister
 
 
 .. toctree::  
