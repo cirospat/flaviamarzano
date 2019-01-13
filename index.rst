@@ -25,6 +25,9 @@ Social network manager, esperta di comunità virtuali, fondatrice e Presidente (
 * \ |LINK4|\ 
 
 
+|REPLACE2|
+
+
 .. toctree::  
     :maxdepth: 2
     :caption: Profile
@@ -66,6 +69,10 @@ Social network manager, esperta di comunità virtuali, fondatrice e Presidente (
 .. |REPLACE1| raw:: html
 
     <strong><span style="background-color: #930d3e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+.. |REPLACE2| raw:: html
+
+    <iframe width="100%" height="500" src="https://www.youtube.com/embed/qzNVNhIwQzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    da Digital First a Digital Only, intervista a Flavia Marzano (FPAtv)
 
 .. |LINK1| raw:: html
 
