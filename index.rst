@@ -9,11 +9,11 @@ Assessora Roma Semplice
 
 |REPLACE1|
 
-* Comune di Roma
+* \ |LINK1|\ 
 
 * Community software libero
 
-* Community WisterWister
+* \ |LINK2|\ 
 
 
 .. toctree::  
@@ -54,3 +54,12 @@ Assessora Roma Semplice
 .. |REPLACE1| raw:: html
 
     <strong><span style="background-color: #930d3e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+
+.. |LINK1| raw:: html
+
+    <a href="https://www.comune.roma.it/web/it/flavia-marzano.page" target="_blank">Assessora Comune di Roma</a>
+
+.. |LINK2| raw:: html
+
+    <a href="http://www.wister.it/" target="_blank">Community Wister</a>
+
