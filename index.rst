@@ -13,7 +13,7 @@ Assessora Roma Semplice
 
 * Community software libero
 
-* WisterWister
+* Community WisterWister
 
 
 .. toctree::  
@@ -53,4 +53,4 @@ Assessora Roma Semplice
 
 .. |REPLACE1| raw:: html
 
-    <strong><span style="background-color: #247a2e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
+    <strong><span style="background-color: #930d3e; color: #ffffff; display: inline-block; padding: 3px 8px; border-radius: 10px;">Reti di impegno</span></strong>
