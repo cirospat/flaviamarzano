@@ -22,7 +22,7 @@ Flavia Marzano pro-file
 
     social-profile
     work-profile
-    cv-FlaviaMarzano
+    cv_flaviamarzano
 
 
 .. toctree::  
