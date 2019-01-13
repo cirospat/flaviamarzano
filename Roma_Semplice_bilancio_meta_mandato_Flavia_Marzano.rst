@@ -4,6 +4,8 @@
 Bilancio di metà mandato e obiettivi per i prossimi 30 mesi
 ###########################################################
 
+Assessora Roma Semplice
+
 
 ..  Note:: 
 
