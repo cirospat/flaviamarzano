@@ -4,7 +4,7 @@
 Flavia Marzano pro-file
 ***********************
 
-Occupazione attuale: assessora Roma Semplice
+Occupazione attuale: \ |STYLE0|\ 
 
 .. _h381a263fc7c70354464351236673a19:
 
@@ -58,6 +58,9 @@ Social network manager, esperta di comunità virtuali, fondatrice e Presidente (
 
 
 .. bottom of content
+
+
+.. |STYLE0| replace:: **assessora Roma Semplice**
 
 
 .. |REPLACE1| raw:: html
