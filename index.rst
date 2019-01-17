@@ -24,6 +24,8 @@ Social network manager, esperta di comunità virtuali, fondatrice e Presidente (
 
 * \ |LINK4|\ 
 
+* \ |LINK5|\ 
+
 
 |REPLACE2|
 
@@ -87,6 +89,10 @@ Social network manager, esperta di comunità virtuali, fondatrice e Presidente (
     <a href="https://www.comune.roma.it/web/it/flavia-marzano.page" target="_blank">Assessora Comune di Roma</a>
 
 .. |LINK4| raw:: html
+
+    <a href="https://www.statigeneralinnovazione.it" target="_blank">Stati Generali dell'Innovazione</a>
+
+.. |LINK5| raw:: html
 
     <a href="http://www.wister.it/" target="_blank">Community Wister</a>
 
