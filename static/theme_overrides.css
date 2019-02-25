@@ -44,29 +44,26 @@ h1, h2, h3 {
 
 /* reattangolo in alto a sinistra dove c'è il logo e il titolo del RTD */
 .wy-side-nav-search {
-    background-color: #930d3e;
+    background-color: #77152f;
 }
 
 /* testo caption menu sx - setta i colori dell'indice nel menu a sx */
-.wy-nav-side {color: #ed365e;}
+.wy-nav-side {color: #77152f;}
 
 
 /* setta il colore del testo caption menu sx */
 .wy-menu-vertical p.caption {
-color: #c60f52;
+color: #e01660;
 } 
 
 
-/* background colore della colonna sx (dove c'è il menù) */
-.wy-side-scroll {background: #770926;} 
+/* background colore area  della colonna sx (dove c'è il menù) */
+.wy-side-scroll {background: #77152f;} 
 
 
 /* colore pannello sx in basso VERSION */
-.rst-versions .rst-current-version {background: #821834;}
+.rst-versions .rst-current-version {background: #77152f;}
 
-
-/*background colore colonna sx */
-/* .wy-side-scroll {background: #1c300f;} */
 
 /* adatta il nav-content a fullhd e si elimina lo spazio vuoto piccolo a destra */
 .wy-nav-content {max-width: 1920px;} 
@@ -74,6 +71,7 @@ color: #c60f52;
 
 /* disattiva il testo "latest"  menu a sx */
 .wy-side-nav-search>div.version {    display: none;}
+
 
 /* disativa il testo "edit on Github" in alto a destra */
 .wy-breadcrumbs li.wy-breadcrumbs-aside {
