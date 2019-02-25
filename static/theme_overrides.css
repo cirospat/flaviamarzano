@@ -57,6 +57,10 @@ color: #c60f52;
 } 
 
 
+/* background colore della colonna sx (dove c'è il menù) */
+.wy-side-scroll {background: #770926;} 
+
+
 /* colore pannello sx in basso VERSION */
 .rst-versions .rst-current-version {background: #821834;}
 
