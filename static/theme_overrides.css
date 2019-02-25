@@ -53,8 +53,12 @@ h1, h2, h3 {
 
 /* setta il colore del testo caption menu sx */
 .wy-menu-vertical p.caption {
-color: #930d3e;
+color: #c60f52;
 } 
+
+
+/* colore pannello sx in basso VERSION */
+.rst-versions .rst-current-version {background: #821834;}
 
 
 /*background colore colonna sx */
